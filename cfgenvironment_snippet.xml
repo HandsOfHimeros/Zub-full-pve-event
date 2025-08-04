@@ -1,0 +1,40 @@
+<!-- 
+=================================================================
+CFGENVIRONMENT.XML SNIPPET - Territory System Setup
+=================================================================
+
+INSTRUCTIONS:
+1. Open your existing cfgenvironment.xml file
+2. Find the zombie_territories.xml file reference: <file path="env/zombie_territories.xml" />
+3. Make sure this line exists in your file paths section
+4. Find the INFECTED territory section
+5. Verify the herdsCount is set to 10 (or higher)
+6. Save the file
+
+WHAT THIS ENSURES:
+- Zombie territory system is properly referenced
+- Territory spawning is enabled with adequate herd count
+- Zombie spawn system will function correctly
+
+EXISTING CODE TO VERIFY:
+-->
+
+        <!-- Verify this line exists in your <territories> section -->
+        <file path="env/zombie_territories.xml" />
+
+        <!-- Verify your INFECTED territory looks like this -->
+        <territory type="Herd" name="ZombieTest" behavior="DZdomesticGroupBeh">
+            <file usable="zombie_territories" />
+            <agent type="Male">
+                <spawn configName="ZombieMale3_NewAI" />
+                <item name="countMin" val="0" />
+                <item name="countMax" val="0" />
+            </agent>
+            <agent type="Female">
+                <spawn configName="ZombieFemale3_NewAI" />
+                <item name="countMin" val="0" />
+                <item name="countMax" val="0" />
+            </agent>
+            <!-- IMPORTANT: Ensure herdsCount is 10 or higher -->
+            <item name="herdsCount" val="10" />
+        </territory>

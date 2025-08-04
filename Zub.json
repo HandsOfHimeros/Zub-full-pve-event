@@ -1,0 +1,660 @@
+{
+    "Objects": [
+        {
+            "name": "StaticObj_Wall_IndFnc2_3_nolc",
+            "pos": [
+                6559.623046875,
+                392.41461181640627,
+                5584.7041015625
+            ],
+            "ypr": [
+                -53.99998474121094,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_Corner2",
+            "pos": [
+                6567.2998046875,
+                391.9460144042969,
+                5616.240234375
+            ],
+            "ypr": [
+                35.999935150146487,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_Corner2",
+            "pos": [
+                6568.47998046875,
+                391.9320068359375,
+                5614.97998046875
+            ],
+            "ypr": [
+                80.99996948242188,
+                -0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6567.66015625,
+                392.02398681640627,
+                5604.58984375
+            ],
+            "ypr": [
+                95.9999008178711,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndFnc2_3_nolc",
+            "pos": [
+                6555.86962890625,
+                392.9342041015625,
+                5579.171875
+            ],
+            "ypr": [
+                -53.99998474121094,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Gate",
+            "pos": [
+                6593.484375,
+                382.8666687011719,
+                5557.8916015625
+            ],
+            "ypr": [
+                -71.99994659423828,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999997019767761,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6577.06005859375,
+                382.8659973144531,
+                5557.52001953125
+            ],
+            "ypr": [
+                -146.39999389648438,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20_Turn_nolc",
+            "pos": [
+                6558.66015625,
+                382.864013671875,
+                5561.7998046875
+            ],
+            "ypr": [
+                179.9998779296875,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndFnc2_3_nolc",
+            "pos": [
+                6562.99853515625,
+                392.7469482421875,
+                5587.7978515625
+            ],
+            "ypr": [
+                -53.99998474121094,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6544.75,
+                389.1709899902344,
+                5569.64990234375
+            ],
+            "ypr": [
+                -117.9000015258789,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999997019767761,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_Corner2",
+            "pos": [
+                6601.2001953125,
+                381.85400390625,
+                5566.2900390625
+            ],
+            "ypr": [
+                137.79991149902345,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999997019767761,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Tin7_Blue_8",
+            "pos": [
+                6529.740234375,
+                390.79998779296877,
+                5569.91015625
+            ],
+            "ypr": [
+                -9.0,
+                0.0,
+                -179.99989318847657
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6603.41015625,
+                381.8800048828125,
+                5577.06982421875
+            ],
+            "ypr": [
+                98.99993133544922,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_Corner2",
+            "pos": [
+                6604.89013671875,
+                381.80999755859377,
+                5587.7998046875
+            ],
+            "ypr": [
+                98.99996185302735,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Bergfrit2",
+            "pos": [
+                6604.08349609375,
+                393.54998779296877,
+                5596.7568359375
+            ],
+            "ypr": [
+                -35.9999885559082,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999997019767761,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Wall_Gate_Fen3",
+            "pos": [
+                6530.734375,
+                387.22821044921877,
+                5569.9921875
+            ],
+            "ypr": [
+                172.3000030517578,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Stairs",
+            "pos": [
+                6594.46630859375,
+                383.7196350097656,
+                5598.732421875
+            ],
+            "ypr": [
+                53.999996185302737,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20_Turn",
+            "pos": [
+                6590.06982421875,
+                386.0199890136719,
+                5605.06005859375
+            ],
+            "ypr": [
+                24.599700927734376,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6578.509765625,
+                386.0469970703125,
+                5608.2900390625
+            ],
+            "ypr": [
+                11.799894332885743,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999997019767761,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6534.4501953125,
+                391.9110107421875,
+                5615.0498046875
+            ],
+            "ypr": [
+                -7.500010013580322,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Bastion",
+            "pos": [
+                6506.763671875,
+                392.8077087402344,
+                5602.193359375
+            ],
+            "ypr": [
+                -89.99995422363281,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_Corner1",
+            "pos": [
+                6515.16015625,
+                392.77099609375,
+                5612.33984375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Donjon",
+            "pos": [
+                6520.66748046875,
+                397.548095703125,
+                5619.45703125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20_nolc",
+            "pos": [
+                6517.462890625,
+                392.80108642578127,
+                5583.81201171875
+            ],
+            "ypr": [
+                -110.5999984741211,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Wall_BackAlley_01_l_gate_F",
+            "pos": [
+                6549.97998046875,
+                390.7597961425781,
+                5573.7001953125
+            ],
+            "ypr": [
+                -40.5999870300293,
+                0.0,
+                0.0
+            ],
+            "scale": 1.059999942779541,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_PipeFenceWall_8",
+            "pos": [
+                6547.93017578125,
+                390.2803955078125,
+                5568.83984375
+            ],
+            "ypr": [
+                -80.20000457763672,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Wall_Gate_Fen3",
+            "pos": [
+                6598.99169921875,
+                381.00396728515627,
+                5556.0146484375
+            ],
+            "ypr": [
+                108.0,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999997019767761,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Tin7_Blue_8",
+            "pos": [
+                6599.419921875,
+                384.5060119628906,
+                5557.2900390625
+            ],
+            "ypr": [
+                -72.00001525878906,
+                0.0,
+                -179.99989318847657
+            ],
+            "scale": 0.9999989867210388,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Barn_Brick2",
+            "pos": [
+                6511.21044921875,
+                392.8482971191406,
+                5602.51171875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1",
+            "pos": [
+                6516.47900390625,
+                388.3705749511719,
+                5602.783203125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                13.199995994567871
+            ],
+            "scale": 0.9999992251396179,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_Table",
+            "pos": [
+                6513.87158203125,
+                389.2283020019531,
+                5609.14599609375
+            ],
+            "ypr": [
+                89.99995422363281,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Canteen",
+            "pos": [
+                6513.30419921875,
+                389.78009033203127,
+                5609.490234375
+            ],
+            "ypr": [
+                26.999988555908204,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "SodaCan_Pipsi",
+            "pos": [
+                6514.33203125,
+                389.724853515625,
+                5609.48974609375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "SodaCan_Cola",
+            "pos": [
+                6514.1572265625,
+                389.71746826171877,
+                5609.51904296875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "PeachesCan_Opened",
+            "pos": [
+                6513.8115234375,
+                389.6784973144531,
+                5609.48193359375
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "TacticalBaconCan_Opened",
+            "pos": [
+                6513.6220703125,
+                389.6784973144531,
+                5609.49072265625
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "SpaghettiCan_Opened",
+            "pos": [
+                6514.28369140625,
+                389.6784973144531,
+                5609.2080078125
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "TunaCan",
+            "pos": [
+                6513.9541015625,
+                389.6784973144531,
+                5609.2216796875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "PorkCan",
+            "pos": [
+                6513.62890625,
+                389.6784973144531,
+                5609.2841796875
+            ],
+            "ypr": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Candycane_Red",
+            "pos": [
+                6513.3037109375,
+                390.2312316894531,
+                5609.7421875
+            ],
+            "ypr": [
+                -80.99995422363281,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999997019767761,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Candycane_Red",
+            "pos": [
+                6513.49560546875,
+                390.2424621582031,
+                5609.7421875
+            ],
+            "ypr": [
+                -89.99995422363281,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        }
+    ]
+}

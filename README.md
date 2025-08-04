@@ -1,3 +1,9 @@
+# ZUB PVE EVENT - DayZ Custom Military Zombie Horde
+
+**Version:** 1.0  
+**Author:** MAJIK  
+**Platform:** Nitrado PS4 DayZ Server
+
 ## 🎯 EVENT OVERVIEW
 
 This package creates an intense PVE encounter featuring:

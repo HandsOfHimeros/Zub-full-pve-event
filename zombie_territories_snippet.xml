@@ -1,0 +1,19 @@
+<!-- 
+=================================================================
+ZOMBIE_TERRITORIES.XML SNIPPET - Military Zombie Spawn Zone
+=================================================================
+
+INSTRUCTIONS:
+1. Open your existing zombie_territories.xml file
+2. Find the <territory-type> section
+3. Add this code inside the <territory color="1124502272"> section
+4. Place it with your other zombie zones
+5. Save the file
+
+WHAT THIS ADDS:
+- InfectedArmyHard-Zub zone at coordinates 6523.70, 5625.67
+- 60-meter radius spawn area
+- 40-50 static zombies, 40-50 dynamic zombies
+-->
+
+        <zone name="InfectedArmyHard-Zub" smin="40" smax="50" dmin="40" dmax="50" x="6523.70" z="5625.67" r="60"/>

@@ -1,0 +1,20 @@
+<!-- 
+=================================================================
+CFGEVENTSPAWNS.XML SNIPPET - Vehicle Spawn Coordinates
+=================================================================
+
+INSTRUCTIONS:
+1. Open your existing cfgeventspawns.xml file
+2. Find the <eventposdef> section
+3. Add this code inside the <eventposdef> section with other events
+4. Place it near the top or with other vehicle spawns
+5. Save the file
+
+WHAT THIS ADDS:
+- VehicleOffroad02Custom spawn at coordinates 6527.59, 5586.53
+- Vehicle will face north (a="0" rotation)
+-->
+
+	<event name="VehicleOffroad02Custom">
+		<pos x="6527.59" z="5586.53" a="0" />
+	</event>

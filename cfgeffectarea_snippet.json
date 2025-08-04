@@ -1,0 +1,28 @@
+{
+    "_INSTRUCTIONS": "1. Open cfgEffectArea.json, 2. Find 'Areas' array, 3. Add the AREA_TO_ADD object to the array, 4. Remove this _INSTRUCTIONS line, 5. Save file",
+    "_COORDINATES": "Fog at 6523.70, 5625.67 with 100m radius",
+    "AREA_TO_ADD": {
+        "AreaName": "Zombie-Fog-Area", 
+        "Type": "SpookyArea", 
+        "TriggerType": "EffectTrigger",
+        "Data": { 
+            "Pos": [ 6523.70, 0, 5625.67 ],
+            "Radius": 100,
+            "PosHeight": 50,
+            "NegHeight": 20,
+            "InnerRingCount": 1,
+            "InnerPartDist": 25,
+            "OuterRingToggle": 1, 
+            "OuterPartDist": 40,
+            "OuterOffset": -80, 
+            "VerticalLayers": 0,
+            "VerticalOffset": 0,
+            "ParticleName": "graphics/particles/spooky_mist"
+        },
+        "PlayerData": {
+            "AroundPartName": "graphics/particles/smoke_bonfire",
+            "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+            "PPERequesterType": "PPERequester_GlassesSportBlack"
+        }
+    }
+}
