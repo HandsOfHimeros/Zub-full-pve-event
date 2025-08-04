@@ -177,22 +177,6 @@
             "customString": ""
         },
         {
-            "name": "StaticObj_Wall_Tin7_Blue_8",
-            "pos": [
-                6529.740234375,
-                390.79998779296877,
-                5569.91015625
-            ],
-            "ypr": [
-                -9.0,
-                0.0,
-                -179.99989318847657
-            ],
-            "scale": 0.9999999403953552,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
             "name": "Land_Castle_Wall1_20",
             "pos": [
                 6603.41015625,
@@ -237,22 +221,6 @@
                 0.0
             ],
             "scale": 0.9999997019767761,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Land_Wall_Gate_Fen3",
-            "pos": [
-                6530.734375,
-                387.22821044921877,
-                5569.9921875
-            ],
-            "ypr": [
-                172.3000030517578,
-                0.0,
-                0.0
-            ],
-            "scale": 0.9999997615814209,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -385,22 +353,6 @@
             "customString": ""
         },
         {
-            "name": "Land_Wall_BackAlley_01_l_gate_F",
-            "pos": [
-                6549.97998046875,
-                390.7597961425781,
-                5573.7001953125
-            ],
-            "ypr": [
-                -40.5999870300293,
-                0.0,
-                0.0
-            ],
-            "scale": 1.059999942779541,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
             "name": "StaticObj_Wall_PipeFenceWall_8",
             "pos": [
                 6547.93017578125,
@@ -413,38 +365,6 @@
                 0.0
             ],
             "scale": 0.9999997615814209,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Land_Wall_Gate_Fen3",
-            "pos": [
-                6598.99169921875,
-                381.00396728515627,
-                5556.0146484375
-            ],
-            "ypr": [
-                108.0,
-                0.0,
-                0.0
-            ],
-            "scale": 0.9999997019767761,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Wall_Tin7_Blue_8",
-            "pos": [
-                6599.419921875,
-                384.5060119628906,
-                5557.2900390625
-            ],
-            "ypr": [
-                -72.00001525878906,
-                0.0,
-                -179.99989318847657
-            ],
-            "scale": 0.9999989867210388,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -651,6 +571,70 @@
                 -89.99995422363281,
                 0.0,
                 0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Wall_Gate_Tin6_2",
+            "pos": [
+                6599.2001953125,
+                380.9930114746094,
+                5556.0
+            ],
+            "ypr": [
+                -71.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.3700000047683716,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1_Legacy",
+            "pos": [
+                6599.919921875,
+                384.5610046386719,
+                5555.89013671875
+            ],
+            "ypr": [
+                18.0,
+                0.0,
+                90.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Wall_Gate_Tin6_2",
+            "pos": [
+                6530.81005859375,
+                387.2760009765625,
+                5569.60986328125
+            ],
+            "ypr": [
+                -5.300000190734863,
+                0.0,
+                0.0
+            ],
+            "scale": 1.3700002431869507,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Panel_Concrete_1_Legacy",
+            "pos": [
+                6530.75,
+                390.8869934082031,
+                5568.8701171875
+            ],
+            "ypr": [
+                83.5999984741211,
+                0.0,
+                90.0
             ],
             "scale": 0.9999997615814209,
             "enableCEPersistency": 0,
